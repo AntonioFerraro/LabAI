@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+transformers
+accelerate
+torch --index-url https://download.pytorch.org/whl/cpu
